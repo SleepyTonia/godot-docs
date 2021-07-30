@@ -231,7 +231,7 @@ based on the UNIX standard locale strings:
 +--------------+------------------------------------+
 | es_CR        | Spanish (Costa Rica)               |
 +--------------+------------------------------------+
-| en_CU        | Spanish (Cuba)                     |
+| es_CU        | Spanish (Cuba)                     |
 +--------------+------------------------------------+
 | es_DO        | Spanish (Dominican Republic)       |
 +--------------+------------------------------------+
